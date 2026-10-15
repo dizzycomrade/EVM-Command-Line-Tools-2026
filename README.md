@@ -72,3 +72,4 @@ Download the latest release from the link below.
 SEO KEYWORDS
 
 evm command line tools, evm cli suite, ethereum cli tools, smart contract deployment cli, blockchain automation tools, evm dev cli, command line blockchain tools, web3 cli suite
+ 
